@@ -1,0 +1,52 @@
+body {
+    background-color:black;
+    text-align: center ;
+}
+
+p {
+    font-family:"Mali", monospace;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: "Mali";
+    font-weight: 700 ; 
+    color: rgb(221, 221, 221);
+}
+
+h2 {
+    font-family: "Mali";
+    font-weight: 600;
+    color: rgb(180, 180, 180);
+}
+
+h3 {
+    font-family: "Mali";
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+h4 {
+    font-family: "Mali";
+    font-weight: 600;
+    color: rgb(180, 180, 180);
+    font-size: 20px;
+}
+
+ol {
+    font-family: "Mali";
+    font-weight: 400;
+    font-style: italic;
+    color: ghostwhite;
+}
+
+ul {
+    font-family: "Mali";
+    font-weight: 400;
+    font-style: italic;
+    color: ghostwhite;
+}
+
